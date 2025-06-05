@@ -1,1 +1,1 @@
-# DA-Project2
+# DA-Customer Segmentation using RFM
